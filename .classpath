@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Tests"/>
+	<classpathentry kind="lib" path="config"/>
+	<classpathentry kind="lib" path="ext/mail.jar"/>
+	<classpathentry kind="lib" path="ext/jxl.jar"/>
+	<classpathentry kind="lib" path="ext/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="ext/itextpdf-5.2.1.jar"/>
+	<classpathentry kind="lib" path="ext/jtidy-r872-jdk15.jar"/>
+	<classpathentry kind="lib" path="ext/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="ext/java-client-1.7.0.jar"/>
+	<classpathentry kind="lib" path="ext/iSafe2.0.jar"/>
+	<classpathentry kind="lib" path="ext/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="ext/commons-lang3-3.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
